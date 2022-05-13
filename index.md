@@ -2,7 +2,7 @@
 layout: default
 ---
 
-If you have viewed this site, you have fell for a test phishing email created by PennELcom. 
+If you have viewed this site, you have fell for a test phishing email created by PennElcom. 
 
 Please contact IT **ASAP**
 
